@@ -1,69 +1,34 @@
-# Olá! 👋 Eu sou Pim_2026
+# Olá! 👋
 
-## 💻 Developer | C# | Flutter
+Sou estudante de tecnologia e estou desenvolvendo minhas habilidades em programação, banco de dados e desenvolvimento de aplicações web e mobile.
 
-Bem-vindo ao meu GitHub! Sou um desenvolvedor apaixonado por criar soluções inovadoras com **C#** e **Flutter**. Aqui você encontra meus projetos, experimentos e contribuições open source.
+Gosto de transformar problemas do dia a dia em projetos práticos, explorando desde a interface até as regras de negócio e a persistência dos dados.
 
----
+## 💻 Tecnologias que estou utilizando
 
-## 🐍 Minha Atividade
+- **C# e .NET** — desenvolvimento de APIs e aplicações web
+- **ASP.NET Core MVC** — interfaces web com Razor
+- **Entity Framework Core** — acesso e persistência de dados
+- **PostgreSQL** — banco de dados relacional
+- **Dart e Flutter** — desenvolvimento de aplicativos mobile
+- **HTML, CSS e JavaScript** — construção de interfaces
+- **Git e GitHub** — versionamento e organização de projetos
 
-![GitHub Snake Animation](https://raw.githubusercontent.com/Pim804/Pim804/output/github-contribution-grid-snake.gif)
+## 🚀 Projeto em destaque: OptiStock
 
----
+Sistema de controle de estoque desenvolvido como Projeto Integrado Multidisciplinar (PIM), com site, API REST e aplicativo Android conectados ao mesmo banco de dados.
 
-## 🛠️ Tecnologias
+Durante o desenvolvimento, trabalhei com:
 
-<div>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="VS">
-</div>
+- Cadastro e consulta de peças, categorias e fornecedores.
+- Controle de entradas e saídas de materiais.
+- Histórico de movimentações e alertas de estoque baixo.
+- Autenticação e permissões para administradores e funcionários.
+- Indicadores de estoque e comunicados para a equipe.
+- Integração entre aplicações web, mobile e PostgreSQL.
 
----
+## 📚 Meu foco de aprendizado
 
-## 📊 Estatísticas
+Estou aprofundando meus conhecimentos em arquitetura em camadas, APIs REST, autenticação, testes automatizados e integração entre sistemas.
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pim804&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pim804&layout=compact&theme=dark" alt="Top Languages">
-</div>
-
----
-
-## 🎯 Sobre Mim
-
-- 🔧 Desenvolvedor focado em aplicações mobile e backend
-- 📱 Criando experiências incríveis com **Flutter**
-- 🖥️ Desenvolvendo soluções robustas com **C# e .NET**
-- 🌱 Sempre aprendendo e explorando novas tecnologias
-- 💡 Adoraria colaborar em projetos interessantes
-
----
-
-## 📞 Conecte-se Comigo
-
-<div>
-  <a href="https://linkedin.com/in/pim2026" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:seu-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://github.com/Pim804">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</div>
-
----
-
-<div align="center">
-  
-  ### ⭐ Se você achou útil, deixe uma estrela! 
-  
-  **Desenvolvendo o futuro, um commit por vez** 🚀
-  
-</div>
+Meu objetivo é construir aplicações cada vez mais organizadas, funcionais e fáceis de usar.
